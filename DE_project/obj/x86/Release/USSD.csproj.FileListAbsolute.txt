@@ -1,0 +1,9 @@
+C:\Users\Dhruv\Desktop\DE_project\DE_project\bin\Release\DE_project.exe
+C:\Users\Dhruv\Desktop\DE_project\DE_project\bin\Release\DE_project.pdb
+C:\Users\Dhruv\Desktop\DE_project\DE_project\obj\x86\Release\DE_project.Form1.resources
+C:\Users\Dhruv\Desktop\DE_project\DE_project\obj\x86\Release\DE_project.Form2.resources
+C:\Users\Dhruv\Desktop\DE_project\DE_project\obj\x86\Release\DE_project.Form3.resources
+C:\Users\Dhruv\Desktop\DE_project\DE_project\obj\x86\Release\DE_project.Properties.Resources.resources
+C:\Users\Dhruv\Desktop\DE_project\DE_project\obj\x86\Release\USSD.csproj.GenerateResource.Cache
+C:\Users\Dhruv\Desktop\DE_project\DE_project\obj\x86\Release\DE_project.exe
+C:\Users\Dhruv\Desktop\DE_project\DE_project\obj\x86\Release\DE_project.pdb
